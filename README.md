@@ -1,7 +1,10 @@
 # Streamline_ticket_SN
 focuses on automating and optimizing the support ticket assignment process to improve operational efficiency and reduce manual workload in IT service management (ITSM).
 
-
+## 📄 Project Documentation
+You can view the full project documentation here:  
+[View smartbridge_project_doc.pdf](https://drive.google.com/file/d/18ZjzzWczJQx6K4BXtCymXdVC5Y5DcYez/view?usp=sharing)
+[View Streamlining ticket assignment git.pdf](https://drive.google.com/file/d/1YnWbR4LX6BZCWZdstwv_U9tWalBcO48k/view?usp=sharing)
 
 This project, developed on the ServiceNow Personal Developer Instance (PDI), focuses on automating and optimizing the support ticket assignment process to improve operational efficiency and reduce manual workload in IT service management (ITSM).
 
